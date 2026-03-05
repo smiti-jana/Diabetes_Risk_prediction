@@ -141,9 +141,14 @@ This will:
 ## 👩‍💻 Author
 
 **Smiti Jana**
+
+
 Master of Computer Applications (MCA)
+
+
 Aspiring Data Scientist & ML Enthusiast
 
 ---
 
 ⭐ If you like this project, consider giving it a **star on GitHub!**
+
