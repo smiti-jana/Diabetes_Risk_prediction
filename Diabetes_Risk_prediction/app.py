@@ -21,7 +21,8 @@ st.title("🩺 Diabetes Risk Prediction App")
 st.write("This app predicts diabetes risk using Machine Learning.")
 
 # ---------------- LOAD MODEL ----------------
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 model_path = os.path.join(BASE_DIR, "Model", "diabetes_model.pkl")
 scaler_path = os.path.join(BASE_DIR, "Model", "scaler.pkl")
 
@@ -120,4 +121,5 @@ if st.button("Predict"):
             data=file,
             file_name="Diabetes_Prediction_Report.pdf",
             mime="application/pdf"
+
         )
