@@ -36,11 +36,24 @@ https://diabetesriskprediction-3s2zqyfnsxtlsbfm2gabnu.streamlit.app/
 ## ✨ Features of the App
 
 ✔ Interactive user interface
+
+
 ✔ Real-time diabetes risk prediction
+
+
 ✔ Probability score display
+
+
 ✔ Feature visualization (bar chart)
+
+
 ✔ Confusion matrix visualization
-✔ Downloadable **PDF prediction report**
+
+
+✔ Downloadable **PDF prediction 
+report**
+
+
 ✔ Clean and responsive UI
 
 ---
