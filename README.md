@@ -17,8 +17,13 @@ https://diabetesriskprediction-3s2zqyfnsxtlsbfm2gabnu.streamlit.app/
 ## 🧠 Machine Learning Model
 
 **Algorithm Used:** Random Forest Classifier
+
+
 **Accuracy Achieved:** ~77–82%
+
+
 **Dataset:** Pima Indians Diabetes Dataset
+
 
 ### Features Used
 
